@@ -1,0 +1,62 @@
+
+
+  html {
+    min-height: 100%;
+    background-image: url("gradient bg.png");
+    margin: 0px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+ }
+ 
+ .header {
+    font-family: Resistance, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    padding: 60px;
+    text-align: center;
+    color: #2B218B;
+    font-size: 30px;
+  }
+
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align:right;
+    color: #2B218B;
+  }
+
+  h1{
+    font-family: Resistance, sans-serif;
+  }
+  
+  body {
+    box-sizing: border-box;
+    font-family: tenon, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #2B218B;  
+  }
+
+  .about {
+    width: 340px;
+    float : left;
+  }
+  .photo {
+    size: 100px;
+    float:right;
+  }
+
+
+   footer {
+    font-family: tenon, sans-serif;
+    font-style: normal;
+    font-weight: 200; 
+    background:#2B218B;
+    color:white;
+  }
+  
+ .dt {
+   font-family: Resistance;
+ }
