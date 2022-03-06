@@ -19,7 +19,7 @@
     font-size: 30px;
   }
 
-    ul {
+  ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -30,6 +30,11 @@
   h1{
     font-family: Resistance, sans-serif;
   }
+
+  dt {
+    font-family: Resistance;
+  }
+ 
   
   body {
     box-sizing: border-box;
@@ -37,26 +42,28 @@
     font-style: normal;
     font-weight: 200;
     color: #2B218B;  
+    margin: 50px;
   }
 
   .about {
-    width: 340px;
+    width: 600px;
     float : left;
   }
+
   .photo {
-    size: 100px;
     float:right;
+    margin: 50px;
+    padding-left: 100px;
   }
 
 
-   footer {
+  .footer {
     font-family: tenon, sans-serif;
     font-style: normal;
-    font-weight: 200; 
+    font-weight: 100; 
     background:#2B218B;
     color:white;
+    margin-bottom:0px;
+
   }
   
- .dt {
-   font-family: Resistance;
- }
